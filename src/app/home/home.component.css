@@ -1,0 +1,28 @@
+.home {
+  background: var(--home-bg-color);
+  padding: 10px;
+}
+
+.home .card {
+  margin: 10px;
+  max-width: 21.5rem;
+  min-width: 15rem;
+}
+
+.home .card-title {
+  color: var(--home-card-text-color);
+  font-family: Roboto;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+
+.home .card-text {
+  color: var(--home-card-text-color);
+  font-family: Roboto;
+}
+
+.home .card-price {
+  color: var(--home-card-price-color);
+  font-family: Roboto;
+  font-size: 1.5rem;
+}
